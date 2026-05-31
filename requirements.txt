@@ -1,0 +1,15 @@
+numpy==1.26.4
+pandas
+scipy
+scikit-learn==1.5.2
+scikit-survival==0.23.0
+scikit-multilearn
+iterative-stratification==0.1.9
+torch
+torchdiffeq
+torchtuples
+pycox==0.3.0
+lifelines
+SurvivalEVAL
+hazardous
+tqdm

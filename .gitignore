@@ -1,3 +1,18 @@
+# SALaD release artifacts and local data
+.DS_Store
+2894_Explicitly_Modeling_Censo.pdf
+CopulaOut-master.zip
+data/*.csv
+data/*.pkl
+data/*.h5
+data/*.json
+data/*.xlsx
+data/SEER/
+data/miRNA/
+logs/
+runs/
+wandb/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
